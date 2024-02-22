@@ -8,10 +8,9 @@ namespace Exercicio2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite um número: ");
-            for (int i = int.Parse(Console.ReadLine()); i <= 100; i++)
+            //voce pode mudar o valor de i para qualquer valor que desejar com um int.parse(Console.ReadLine());
+            for (int i = 1; i <= 100; i++)
             {
-                
                 Console.WriteLine("O valor de i é: " +i);
             }
         }
