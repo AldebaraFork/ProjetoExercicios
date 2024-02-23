@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Globalization;
 
+
+//trabalhando com vetores e estrutura for
 namespace Exercicio4
 {
     class Program
