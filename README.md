@@ -4,10 +4,10 @@
 
 
 
-#ProjetoExercicios 22/02/2024 - Exercicios simples concluidos, Começarei POO com C# em breve
+# ProjetoExercicios 22/02/2024 - Exercicios simples concluidos, Começarei POO com C# em breve
 
 
 # ProjetoExercicios - 23/02/2024 uma revisao sobre vetores e estrutura for
 
 
-#ProjetoExercicios - 26/02/2024 Lógica de Programação concluida usando todas as repetições e tipos de dados basicos
+# ProjetoExercicios - 26/02/2024 Lógica de Programação concluida usando todas as repetições e tipos de dados basicos
